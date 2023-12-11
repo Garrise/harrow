@@ -1,0 +1,14 @@
+{
+  "name": "Harrow",
+  "version": "0.1",
+  "display_name": "哈罗牌",
+  "authors": [
+    "Garrise"
+  ],
+  "description": "可以使用哈罗牌占卜的插件",
+  "usage": ["以 `哈罗牌` 开头，然后在空格后接 `抽卡` 或 `占卜`"],
+  "example": ["哈罗牌 占卜"],
+  "icon": "",
+  "prefix": ["/", ""],
+  "triggers": ["哈罗牌", "harrow"]
+}
